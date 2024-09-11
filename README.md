@@ -1,2 +1,3 @@
 # wealthwise
 Main repo for the wealthwise app using Flutter
+This repo is currently under extensive work...
