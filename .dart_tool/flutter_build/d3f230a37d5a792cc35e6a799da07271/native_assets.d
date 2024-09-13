@@ -1,0 +1,1 @@
+ /Users/cristiandinuta/Desktop/wealthwise/.dart_tool/flutter_build/d3f230a37d5a792cc35e6a799da07271/native_assets.yaml: 
