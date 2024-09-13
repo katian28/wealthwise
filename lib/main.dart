@@ -1,6 +1,10 @@
 import 'package:flutter/material.dart';
 import 'widgets/bottom_nav_bar.dart';
 import 'pages/home.dart';
+import 'pages/finance.dart';
+import 'pages/news_education.dart';
+import 'pages/community.dart';
+import 'pages/add_expense.dart';
 
 void main() {
   runApp(MyApp());
@@ -27,7 +31,7 @@ class _HomePageState extends State<HomePage> {
   int _selectedIndex = 0;
 
   // List of all pages
-  static const List<Widget> _pages = <Widget>[
+  static List<Widget> _pages = <Widget>[
     HomeScreen(),
     FinanceScreen(),
     AddExpenseScreen(),

@@ -13,7 +13,7 @@ class JourneyCard extends StatelessWidget {
       child: Row(
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
         children: [
-          Image.asset('assets/frog.png', height: 50),  // Replace with your frog image
+          //Image.asset('assets/frog.png', height: 50),  // Replace with your frog image
           ElevatedButton(
             onPressed: () {},
             child: Text('See my journey'),
