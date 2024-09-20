@@ -10,30 +10,32 @@ class BottomNavBar extends StatelessWidget {
   Widget build(BuildContext context) {
     return BottomNavigationBar(
       type: BottomNavigationBarType.fixed,
-      backgroundColor: Colors.black,
-      items: const <BottomNavigationBarItem>[
+      backgroundColor: Color.fromRGBO(31, 44, 49, 1),
+      items: <BottomNavigationBarItem>[
         BottomNavigationBarItem(
-          icon: Icon(Icons.home),
+          icon: Image.asset('web/icons/Home.png'),
           label: 'Home',
         ),
         BottomNavigationBarItem(
-          icon: Icon(Icons.account_balance_wallet),
+          icon: Image.asset('web/icons/Budgeting.png'),
           label: 'Finance',
         ),
         BottomNavigationBarItem(
-          icon: Icon(Icons.add_circle_outline),
+          icon: Image.asset('web/icons/Wealthwise.png'),
           label: 'Add Expense',
         ),
         BottomNavigationBarItem(
-          icon: Icon(Icons.article),
+          icon: Image.asset('web/icons/Resource.png'),
           label: 'News',
         ),
         BottomNavigationBarItem(
-          icon: Icon(Icons.group),
+          icon: Image.asset('web/icons/Community.png'),
           label: 'Community',
         ),
       ],
       currentIndex: selectedIndex,
+      showSelectedLabels: false, // Hide label for the selected item
+      showUnselectedLabels: false, 
       selectedItemColor: Colors.green,
       unselectedItemColor: Colors.white,
       onTap: onTap,
