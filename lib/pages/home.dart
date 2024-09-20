@@ -6,6 +6,7 @@ class HomeScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      backgroundColor: Color.fromRGBO(19, 31, 36, 1),
       body: SafeArea(
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
