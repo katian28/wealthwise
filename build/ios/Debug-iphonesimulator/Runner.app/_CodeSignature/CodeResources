@@ -212,6 +212,10 @@
 		<data>
 		n57qDP4tZfLD1rCS43W0B4LQjzE=
 		</data>
+		<key>__preview.dylib</key>
+		<data>
+		WSBgvL/h6/AN5x4NpmLtAgrkkCY=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -563,6 +567,13 @@
 			<key>hash2</key>
 			<data>
 			ZepykIMSjfzhwAcmupMrkaqvXkhza1ZE3TdHjl8odaw=
+			</data>
+		</dict>
+		<key>__preview.dylib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8sYlCghIKpM/liipyf/SxvUWuNbxUrkkddMh9bmVUlc=
 			</data>
 		</dict>
 	</dict>
