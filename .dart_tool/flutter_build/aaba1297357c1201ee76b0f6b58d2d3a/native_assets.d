@@ -1,0 +1,1 @@
+ /Users/katiankurunzizagwaneza/Documents/GitHub/wealthwise/.dart_tool/flutter_build/aaba1297357c1201ee76b0f6b58d2d3a/native_assets.yaml: 

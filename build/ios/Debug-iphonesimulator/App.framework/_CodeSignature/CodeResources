@@ -10,11 +10,11 @@
 		</data>
 		<key>flutter_assets/AssetManifest.bin</key>
 		<data>
-		ME0cAg6cl/bTZmwXEVgMugDccUI=
+		WkpHzAI/+FfxydXmiMyEMyhWy8E=
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		oG5/OGn+vw7vp/nu5DUDoZJ4nFc=
+		lVhDcgQkEuanRHSd6AwxMPaRsLQ=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		u4EDn2KdAjk1RDwVKvQt9LmUzuc=
+		u6qob1sviwJjIEBEQaHbjet6FmY=
 		</data>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -48,6 +48,26 @@
 		<data>
 		ap40xllbguuMfkV4mJkKh/NQWg4=
 		</data>
+		<key>flutter_assets/web/icons/Budgeting.png</key>
+		<data>
+		ZybZesKwAhaGMrNWUqBp3l8y6i0=
+		</data>
+		<key>flutter_assets/web/icons/Community.png</key>
+		<data>
+		/havmeVe/ugvtr1jktcJ1gWRx4s=
+		</data>
+		<key>flutter_assets/web/icons/Home.png</key>
+		<data>
+		V/x+8Qo+ibZj8NI8kPklvRin+js=
+		</data>
+		<key>flutter_assets/web/icons/Resource.png</key>
+		<data>
+		nHbMqMThKHcIuRAI0n7+s5eAoEE=
+		</data>
+		<key>flutter_assets/web/icons/Wealthwise.png</key>
+		<data>
+		5C8TDMeRTlYAuxZ18JurAuCrDUE=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -55,14 +75,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AK9VrT1vIYmP534P8JLRoc2lLJQbaGDpko1FyK+MCV0=
+			5FP7RL0J8WIRkJMWi52ItzzWCDLUNDwDikJkT3GoKnY=
 			</data>
 		</dict>
 		<key>flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Sps95+7JukayebvM0TLjL1LW1VXXndpKp/O8tOm9ZR8=
+			purCbRunB2LONwzrLMcnUAL2nmZyYbmGXmPxJsMjfpE=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
@@ -97,7 +117,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RClhftv66+DHKo/qnSWeP8JKk9omtjjxNupHMqkjWnE=
+			5yVM9FYseQ4oYxuQG97oJYlgI8HzeGYWRQOwb+rh78Q=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -119,6 +139,41 @@
 			<key>hash2</key>
 			<data>
 			6eubeZZqyUNzwtBtT1r66GIIirzwERUZET0Gp6oe/CI=
+			</data>
+		</dict>
+		<key>flutter_assets/web/icons/Budgeting.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			e1AmkSuc1xR8VB83OnlZKMmkimdWZ26aa0PqKUV9Fh4=
+			</data>
+		</dict>
+		<key>flutter_assets/web/icons/Community.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			y2x9CgzForyWDERNopahsSwtJQ1Gs2lFlQa8NzlcLmU=
+			</data>
+		</dict>
+		<key>flutter_assets/web/icons/Home.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xFaxz9gBWikK7fHJhF6xo8r+hyHgzr75VrkVMbc0IU0=
+			</data>
+		</dict>
+		<key>flutter_assets/web/icons/Resource.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			08VaT4NfXMW7dz/g6VwlC8qNYYnWQG8Prf47DFjqE08=
+			</data>
+		</dict>
+		<key>flutter_assets/web/icons/Wealthwise.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			D7miGj0rTKyTM9nYgqL240AO28gFlgR51igfG7Kd0Uk=
 			</data>
 		</dict>
 	</dict>
